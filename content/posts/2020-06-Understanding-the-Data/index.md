@@ -14,15 +14,15 @@ Recall from our previous step that we are going to work with several variables, 
 
 We have actually put a makeshift code book by putting together the definition of each variables from gapminder website.
 
-![gapminder co2 total](https://iahsanujunda-hosted-files.s3.us-east-2.amazonaws.com/images/gapminder_co2_emission.png)
+![gapminder co2 total](co2-emission.png)
 
-![gapminder internet user rate](https://iahsanujunda-hosted-files.s3.us-east-2.amazonaws.com/images/gapminder_internetuse_rate.png)
+![gapminder internet user rate](internet-use-rate.png)
 
-![gapminder total population](https://iahsanujunda-hosted-files.s3.us-east-2.amazonaws.com/images/gapminder_total_population.png)
+![gapminder total population](total-population.png)
 
-![gapminder gdp per capita](https://iahsanujunda-hosted-files.s3.us-east-2.amazonaws.com/images/gapminder_gdp_capita.png)
+![gapminder gdp per capita](gdp-capita.png)
 
-![gapminder oil per capita](https://iahsanujunda-hosted-files.s3.us-east-2.amazonaws.com/images/gapminder_oil_percapita.png)
+![gapminder oil per capita](oil-consumption.png)
 
 However, above images are not easy to read, hence we are going to create a separate spread sheet to hold all of these information in tabular format.
  

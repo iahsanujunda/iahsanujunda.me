@@ -16,25 +16,25 @@ Answering my question requires a solid data that come from a reputable source. I
 
 Gapminder has one data that listed CO2 emission of each countries, this is going to be our main variable.
 
-![gapminder co2 total](/images/2020-06-Starting-Analytics-Project/co2-emission.png)
+![gapminder co2 total](co2-emission.png)
 
 It also has data of % of population who is using the internet. This is going to be used as our secondary variable.
 
-![gapmnder internet user rate](/images/2020-06-Starting-Analytics-Project/internet-use-rate.png)
+![gapmnder internet user rate](internet-use-rate.png)
 
 The simplest form of analytical question is looking for association. One study by [Salahuddin, Alam, and Ozturk (2016)](https://www.sciencedirect.com/science/article/abs/pii/S1364032116300351) suggested that the association between CO2 emission and internet user rate is a positive correlation among OECD countries, although they also stated that the rapid growth of the internet is not an environmental threat. It quoted other studies that suggested that internet usage growth increases electricity consumption - a known contributor of CO2 emission.
 
 Reading this, I plan to introduce economic level as the next secondary variable. It is a good variable to check if we can control for the effect of wealth. If high economic activity consistently associated with higher emission, it means we might be able to disentagle the effect of internet from general economic activities. We can use Gapminder GDP percapita as a proxy metric for economic level.
 
-![gapminder gdp per capita](/images/2020-06-Starting-Analytics-Project/gdp-capita.png)
+![gapminder gdp per capita](gdp-capita.png)
 
 To complement this variable, we are going to pull total population as well, in case we need to refer to the number of population instead of the ratio.
 
-![gapminder total population](/images/2020-06-Starting-Analytics-Project/total-population.png) 
+![gapminder total population](total-population.png) 
 
 Previously mentioning electricity consumption lead me to also include oil consumption to provide insight into energy sources. This can add nuance to the analysis that shows if a country can grow with internet with minimal impact to environment by embracing non-oil energy sources.
 
-![gapminder oil consumption](/images/2020-06-Starting-Analytics-Project/oil-consumption.png)
+![gapminder oil consumption](oil-consumption.png)
 
 ## The Analysis
 

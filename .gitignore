@@ -18,3 +18,5 @@ Thumbs.db
 # Installers
 *.deb
 *.rpm
+
+legacy
