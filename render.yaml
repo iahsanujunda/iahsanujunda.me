@@ -9,6 +9,9 @@ projects:
       buildCommand: hugo --minify
       staticPublishPath: public
       pullRequestPreviewsEnabled: false
+      envVars:
+      - key: HUGO_VERSION
+        value: 0.146.0
       domains:
       - iahsanujunda.me
       - www.iahsanujunda.me
