@@ -6,7 +6,7 @@ projects:
     - type: web
       runtime: static
       name: iahsanujunda-hugo
-      buildCommand: hugo build --minify
+      buildCommand: hugo --minify
       staticPublishPath: public
       pullRequestPreviewsEnabled: false
       domains:
