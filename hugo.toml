@@ -5,6 +5,14 @@ theme = "PaperMod"
 
 [params]
   author = "Junda"
+  
+  [params.homeInfoParams]
+  Title = "Learned Something, write  down!"
+  Content = "Find me on"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "github.com/iahsanujunda"
 
 [menu]
   [[menu.main]]
@@ -12,13 +20,9 @@ theme = "PaperMod"
     url = "/archives"
     weight = 5
   [[menu.main]]
-    name = "Search"
-    url = "/search"
-    weight = 10
-  [[menu.main]]
     name = "About"
     url = "/about"
-    weight = 15
+    weight = 10
 
 [permalinks]
   posts = "/:year/:month/:day/:slug/"  # match your existing Hexo URLs
