@@ -9,3 +9,6 @@ projects:
       buildCommand: hugo build --minify
       staticPublishPath: public
       pullRequestPreviewsEnabled: false
+      domains:
+      - iahsanujunda.me
+      - www.iahsanujunda.me
