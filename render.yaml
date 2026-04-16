@@ -1,0 +1,11 @@
+projects:
+- name: iahsanujunda.me
+  environments:
+  - name: Production
+    services:
+    - type: web
+      runtime: static
+      name: iahsanujunda-hugo
+      buildCommand: hugo build --minify
+      staticPublishPath: public
+      pullRequestPreviewsEnabled: false

@@ -20,9 +20,18 @@ theme = "PaperMod"
     url = "/archives"
     weight = 5
   [[menu.main]]
+    name = "Search"
+    url = "/search"
+    weight = 10
+  [[menu.main]]
     name = "About"
     url = "/about"
-    weight = 10
+    weight = 15
 
 [permalinks]
   posts = "/:year/:month/:day/:slug/"  # match your existing Hexo URLs
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
