@@ -3,9 +3,9 @@ title = 'Java Never Stuck with Me'
 date = 2026-04-17T17:07:58+09:00
 +++
 
-It might come as a surprise for anyone who knew me personally, but I used to despise programming. I am what can be considered a late bloomer. My first introduction to a proper programming was in first year of university: Algorithm and Data Structure class. We used C back then and I can't tell you how much I hated it. Not the class itself, but making the C language do what I want it to do. Google was not as helpful back then, I did not even remember if stack overflow was around, and no LLM for obvious reason. I fight this battle only with the good old "Introduction to Algorithms" book.
+It might come as a surprise for anyone who knew me personally, but I used to despise programming. I am what can be considered a late bloomer. My first introduction to a proper programming was in first year of university: Algorithm and Data Structure class. So I never developed natural interest on this topic, I need the good grade as the initial motivation. We used C back then and I can't tell you how much I hated it. Not the class itself, but making the C language do what I want it to do. Google was not as helpful back then, I did not even remember if stack overflow was around, and no LLM for obvious reason. I fight this battle only with the good old "Introduction to Algorithms" book.
 
-Then come the OOP class. Despite my struggle with C, I like the Algorithm class so much. It felt just like playing puzzle. And the satisfaction I got from getting the C language to finally work is immense. But boy the OOP class crank that up.
+Then come the OOP class. Despite my struggle with C, at least I enjoy the Algorithm theory itself. It felt just like playing puzzle. And the satisfaction I got from getting the C language to finally work is immense. But boy the OOP class crank that up.
 
 The OOP class was taught in Java. If I hated C before, I hated Java even more. Like, everywhere I look, doing a simple thing in Java requires so much ceremony.
 
@@ -30,7 +30,7 @@ public class Main {
 }
 ```
 
-I haven't even started on the logic, but I already wrote 10 lines of scaffolding.
+I haven't even started on the logic, but I already wrote 10 lines of scaffolding. What did public mean? What did static mean? What did void mean? Why Now? Is there Old? What System? 
 
 The other classes was similar.
 
