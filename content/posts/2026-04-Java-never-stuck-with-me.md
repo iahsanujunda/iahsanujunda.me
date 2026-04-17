@@ -1,7 +1,6 @@
 +++
 title = 'Java Never Stuck with Me'
 date = 2026-04-17T17:07:58+09:00
-draft = true
 +++
 
 It might come as a surprise for anyone who knew me personally, but I used to despise programming. I am what can be considered a late bloomer. My first introduction to a proper programming was in first year of university: Algorithm and Data Structure class. We used C back then and I can't tell you how much I hated it. Not the class itself, but making the C language do what I want it to do. Google was not as helpful back then, I did not even remember if stack overflow was around, and no LLM for obvious reason. I fight this battle only with the good old "Introduction to Algorithms" book.
@@ -75,4 +74,4 @@ Then my classmate introduced me to node.js for web development.
 
 Then ofcourse I bought Udemy courses to learn about these tools more. I can work on the problem I like and the tool wont fight me anymore? Sign me up, bro!
 
-Then a few years later this is what I actually ended up doing. I used python daily for statistical analysis. I used Scala for the production grade data analytics pipeline. When we need to gave API to a downstream system, I used flask, then fastapi. Turns out, when I don't have to fight the tools, I'm actually happy doing this everyday till the day I die.
+Then a few years later this is what I actually ended up doing. My backend colleague, of course uses Java as the core payment system. It is still king of financial services. I used python for theri statistical analysis needs. Scala for the production grade data analytics pipeline. When we need to give API to a downstream system, I used flask, then fastapi. Turns out, when I don't have to fight the tools, I'm actually happy doing this everyday till the day I die.
