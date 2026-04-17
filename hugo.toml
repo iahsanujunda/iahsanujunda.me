@@ -7,7 +7,7 @@ theme = "PaperMod"
   author = "Junda"
   
   [params.homeInfoParams]
-  Title = "Learned Something, write  down!"
+  Title = "Learned Something, write them down!"
   Content = "Find me on"
 
   [[params.socialIcons]]
