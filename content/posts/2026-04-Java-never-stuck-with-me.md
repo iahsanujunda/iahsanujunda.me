@@ -30,7 +30,7 @@ public class Main {
 }
 ```
 
-I haven't even started on the logic, but I already wrote 10 lines of scaffolding. What did public mean? What did static mean? What did void mean? Why Now? Is there Old? What System? 
+I haven't even started on the logic, but I already wrote 10 lines of scaffolding. What did public mean? What did static mean? What did void mean? Why new? Is there old? What System? 
 
 The other classes was similar.
 
