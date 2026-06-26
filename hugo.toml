@@ -13,6 +13,22 @@ title = 'Izzuddin Ahsanujunda'
   colorscheme = "dark"
   rss = true
 
+  [params.logo]
+    enabled = true
+    width = 50
+    height = 50
+    url = "/images/logo.png"
+    gravatar = false
+    grayout = true
+
+  [params.favicon]
+    [params.favicon.desktop]
+      url = "/images/favicon.ico"
+    [params.favicon.android]
+      url = "/images/favicon-192x192.png"
+    [params.favicon.apple]
+      url = "/images/apple-touch-icon.png"
+
   [params.tagsOverview]
     enabled = false
   [params.postsOverview]
