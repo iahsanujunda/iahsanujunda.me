@@ -1,1 +1,1 @@
-# github.com/iahsanujunda/hugo-theme-cactus v1.0.2
+# github.com/iahsanujunda/hugo-theme-cactus v1.0.3
